@@ -45,7 +45,7 @@ extras_require = {
         'fastparquet >=0.1.6',  # optional dependency
         'holoviews >=1.10.0',
         'pyarrow',
-        'netcdf'
+        'netcdf4'
     ],
     'examples': examples,
     'examples_extra': examples + [
